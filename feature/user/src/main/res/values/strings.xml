@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_user_name">Name</string>
+    <string name="auth_register">Register</string>
+    <string name="auth_login">Login</string>
+    <string name="auth_to_login">Already have an account? Login</string>
+    <string name="auth_to_registration">Don\'t have an account? Register</string>
+    <string name="auth_forgot_password">Forgot password</string>
+    <string name="auth_forgot_password_send_to_email">Send instructions to email</string>
+    <string name="auth_forgot_password_success_result_description">Password recovery instructions have been sent to email</string>
+    <string name="auth_forgot_password_close">Close</string>
+
+    <string name="profile_login">Login</string>
+    <string name="profile_logout">Logout</string>
+    <string name="profile_user_settings">User settings</string>
+    <string name="profile_appearance_mode">Appearance Mode</string>
+    <string name="profile_about_app">About app</string>
+    <string name="profile_logout_confirmation_text">Are you sure you want to logout?</string>
+    <string name="profile_logout_confirmation_yes">Yes</string>
+    <string name="profile_logout_confirmation_no">Dismiss</string>
+
+    <string name="user_settings_save_changes">Save changes</string>
+    <string name="user_settings_delete_account">Delete account</string>
+    <string name="user_settings_delete_account_confirmation_text">Are you sure you want to delete account?</string>
+    <string name="user_settings_delete_account_confirmation_yes">Yes</string>
+    <string name="user_settings_delete_account_confirmation_no">Dismiss</string>
+    <string name="user_settings_incorrect_image_error_unknown">File selection error</string>
+    <string name="user_settings_incorrect_image_error_file_size">Maximum file size: %s Mb (picked file size is %s Mb)</string>
+
+    <string name="auth_error_incorrect_email">Incorrect email</string>
+    <string name="auth_error_short_password">Minimum password length: %d (current is %d)</string>
+    <string name="auth_error_short_user_name">Minimum user name length: %d (current is %d)</string>
+    <string name="auth_error_incorrect_login_data">Incorrect email or password</string>
+    <string name="auth_error_user_blocked">User %s is blocked</string>
+
+    <string name="cd_profile_user_avatar">user avatar</string>
+    <string name="cd_profile_user_avatar_change">change user avatar</string>
+</resources>

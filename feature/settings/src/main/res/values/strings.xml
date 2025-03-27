@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appearance_mode_light">Light</string>
+    <string name="appearance_mode_dark">Dark</string>
+    <string name="appearance_mode_system">System</string>
+    <string name="appearance_mode_picker_title">Choose App Theme</string>
+    <string name="about_app_version_and_code">Version: %1$s. Code: %2$s</string>
+    <string name="about_app_user_agreement">User agreement</string>
+
+    <string name="cd_app_icon">app icon</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_button_image_size_default">28.dp</dimen>
+    <dimen name="action_button_image_size_large">42.dp</dimen>
+    <dimen name="circle_button_size_default">30.dp</dimen>
+    <dimen name="circle_button_size_large">40.dp</dimen>
+    <dimen name="circular_progress_indicator_stroke_width">2.dp</dimen>
+    <dimen name="component_padding_default">8.dp</dimen>
+    <dimen name="component_padding_medium">12.dp</dimen>
+    <dimen name="component_padding_large">16.dp</dimen>
+    <dimen name="component_padding_small">4.dp</dimen>
+    <dimen name="component_padding_extra_small">2.dp</dimen>
+    <dimen name="component_inner_image_padding">4.dp</dimen>
+    <dimen name="spacer_default">8.dp</dimen>
+    <dimen name="spacer_large">16.dp</dimen>
+    <dimen name="padding_base">16.dp</dimen>
+    <dimen name="padding_top">24.dp</dimen>
+
+    <dimen name="profile_avatar_size">100.dp</dimen>
+    <dimen name="profile_avatar_border_width">4.dp</dimen>
+    <dimen name="profile_avatar_edit_icon_size">36.dp</dimen>
+
+    <dimen name="bottom_navigation_bar_icon_size">24.dp</dimen>
+
+    <dimen name="card_corner_radius">8.dp</dimen>
+    <dimen name="card_padding">12.dp</dimen>
+
+    <dimen name="lazy_column_content_padding">16.dp</dimen>
+    <dimen name="lazy_column_vertical_arrangement_space">8.dp</dimen>
+
+    <dimen name="rating_indicator_width">200.dp</dimen>
+    <dimen name="separator_width">1.dp</dimen>
+
+    <dimen name="review_avatar_size">42.dp</dimen>
+    <dimen name="review_rating_indicator_size">36.dp</dimen>
+    <dimen name="review_circle_border_width_size">2.dp</dimen>
+</resources>

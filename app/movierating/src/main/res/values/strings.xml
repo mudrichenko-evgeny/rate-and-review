@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Review</string>
+    <string name="app_description">This application is used to rate and review movies. The user
+        has the ability to view the average rating of the movie and see reviews from
+        other users.</string>
+
+    <string name="navigation_bar_global_feed">Global Feed</string>
+    <string name="navigation_bar_user_feed">My Feed</string>
+    <string name="navigation_bar_profile">Profile</string>
+
+    <string name="movie_write_review">Write your review</string>
+
+    <string name="cd_movie_image">Movie image</string>
+</resources>

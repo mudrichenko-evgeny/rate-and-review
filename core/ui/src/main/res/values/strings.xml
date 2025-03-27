@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="cd_successful">successful</string>
+    <string name="cd_error">error</string>
+    <string name="cd_cancel" tools:ignore="ButtonCase">cancel</string>
+    <string name="cd_close">close</string>
+    <string name="cd_profile">profile</string>
+    <string name="cd_global_feed">global feed</string>
+    <string name="cd_user_feed">user feed</string>
+    <string name="cd_refresh">refresh</string>
+    <string name="cd_delete">delete</string>
+    <string name="cd_edit">edit</string>
+    <string name="cd_user_avatar">user avatar</string>
+
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_other">Something went wrong</string>
+
+    <string name="rating_indicator_no_rating">Unrated</string>
+    <string name="rating_indicator_nullable_rating">-/-</string>
+
+    <string name="edit_review_save">Save</string>
+    <string name="edit_review_cancel">Cancel</string>
+    <string name="edit_review_rating_label">Rating</string>
+    <string name="edit_review_text_label">Your review</string>
+
+    <string name="review_text_your_review">Your review</string>
+
+    <string name="expandable_text_show_more">Show more</string>
+    <string name="expandable_text_show_less">Show less</string>
+
+    <string name="dialog_delete_review_confirmation_message">Are you sure to delete review?</string>
+    <string name="dialog_delete_review_confirmation_yes">Yes</string>
+    <string name="dialog_delete_review_confirmation_no">No</string>
+</resources>
